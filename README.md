@@ -1,9 +1,9 @@
 {
-  "name": "RM7Shmr",
-  "age": 888,
+  "name": "0x1F608",
+  "age": 15,
   "os": "void linux",
   "interests": [
-    "Cyber",
+    "Programming",
     "Watching movies",
     "Piracy",
     "Music"
@@ -12,20 +12,23 @@
     "python",
   ],
   "favorites": {
-    "music": [
-      "sonrisa (feat. Ze66y & AfterDeath)",
-      "",
-      "",
+    "books": [
+      "50 tons of metal music",
+      "A year in the meirde",
+      "The grim tales",
     ],
     "music": [
       "Metal",
       "Deathcore",
     ],
-    
+    "movies": [
+      "The inbetweeners",
+      "The office",
+      "Man down"
     ]
   },
   "social_media": {
-    "Discord": "https://www.discord.come/.f16.",
+    "youtube": "https://www.youtube.com/@Ihat3my1if3",
   },
-  "website": "RM7Shmr.github.io"
+  "website": "0x1F608.github.io"
 }
