@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Yazan or you can call me RM7 and i'm a discord div</h2>
+<h2 align="left">Hi I'm Yazan </h2>
 
 ###
 
